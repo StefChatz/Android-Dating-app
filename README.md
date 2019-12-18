@@ -4,6 +4,6 @@ This project is a Tinder-like app. It has 10 predefined users associated with ma
 # Conclusion
 Overall, in my opinion the app is beutifully structured with decent quality graphics and the simplicity of the gestures make it quite user friendly, on top of including a great functionality.
 
-# Repos used
+# Credit
 
 https://github.com/Diolor/Swipecards
