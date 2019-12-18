@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "415771365726",
+    "firebase_url": "https://com1032datingapp.firebaseio.com",
+    "project_id": "com1032datingapp",
+    "storage_bucket": "com1032datingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415771365726:android:2341147b8844be9e",
+        "android_client_info": {
+          "package_name": "com1032.cw1.sc01396.com1032_datingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415771365726-q9r62dm835rbkorhsh7svp6qudfnfseg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com1032.cw1.sc01396.com1032_datingapp",
+            "certificate_hash": "4132401f3312ec91fe9cc3bd9d1ed008136f7669"
+          }
+        },
+        {
+          "client_id": "415771365726-ad05rmk48ojijk8iujdbig0pmovn8q9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLWg_ODBXUD6o8ufzOCYsujS-Mz6iksNI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415771365726-ad05rmk48ojijk8iujdbig0pmovn8q9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

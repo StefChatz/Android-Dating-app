@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:ignore="MissingPrefix"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MapInit">
+
+    <fragment
+        xmlns:map="schemas.android.com/tools"
+        android:name = "com.google.android.gms.maps.MapFragment"
+        android:id="@+id/ID"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:gravity = "top"
+        map:cameraZoom="50"
+        map:uiZoomGestures= "true"
+        map:cameraBearing="112.5"
+        map:camerTargetLat="37.983810"
+        map:cameraTargetLng="23.727539" />
+
+    <Button
+        android:id="@+id/btn_look"
+        android:layout_width="match_parent"
+        android:gravity="bottom"
+        android:onClick="onLookPeople"
+        android:text="Look for people"
+        android:textAlignment="center"
+        android:layout_height="40dp"  />
+
+</android.support.constraint.ConstraintLayout>
